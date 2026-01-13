@@ -1,8 +1,15 @@
 *
-{background-color: white;
+body{background-color: white;
 color: black;
 text-align: center;
 list-style-position: inside;
 font-family: "press Start 2p";
 }
-
+#odin{
+    padding: 20px;
+    border: 20px solid #808080;
+}
+.fries{
+     padding: 20px;
+     border: 20px solid #808080;
+}
