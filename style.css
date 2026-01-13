@@ -6,10 +6,11 @@ list-style-position: inside;
 font-family: "press Start 2p";
 }
 #odin{
-    padding: 20px;
-    border: 20px solid #808080;
+    padding: 30px;
+    border: 20px solid #000000;
+   
 }
 .fries{
      padding: 20px;
-     border: 20px solid #808080;
+     border: 20px solid #000000;
 }
