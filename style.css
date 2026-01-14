@@ -1,5 +1,7 @@
 *
-body{background-color: white;
+body{ 
+
+    background-color: white;
 color: black;
 text-align: center;
 list-style-position: inside;
@@ -11,7 +13,21 @@ font-family: "press Start 2p";
     background-color: grey;
    
 }
-.fries{
+.fries{ 
      padding: 20px;
      border: 20px solid #000000;
+}
+.Ingredients{
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    font-size: large;
+    border: 5px solid red   ;
+}
+.steps{
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    font-size: large;
+    border: 5px solid red;
 }
