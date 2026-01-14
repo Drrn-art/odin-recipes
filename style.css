@@ -9,13 +9,14 @@ font-family: "press Start 2p";
 }
 #odin{
     padding: 20px;
-    border: 20px solid #000000;
+    border: 10px solid #000000;
     background-color: grey;
    
 }
 .fries{ 
      padding: 20px;
-     border: 20px solid #000000;
+     border: 10px solid #000000;
+     background-color: grey;
 }
 .Ingredients{
     display: flex;
